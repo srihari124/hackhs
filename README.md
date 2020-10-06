@@ -1,1 +1,1 @@
-This ia open source repo for hackerbest
+This is a open source repo for hacktoberfest
